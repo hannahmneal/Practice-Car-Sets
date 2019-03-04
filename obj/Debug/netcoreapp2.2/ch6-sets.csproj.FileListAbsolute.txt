@@ -1,0 +1,11 @@
+/Users/hannahneal/workspace/C-sharp/ch6-sets/bin/Debug/netcoreapp2.2/ch6-sets.deps.json
+/Users/hannahneal/workspace/C-sharp/ch6-sets/bin/Debug/netcoreapp2.2/ch6-sets.runtimeconfig.json
+/Users/hannahneal/workspace/C-sharp/ch6-sets/bin/Debug/netcoreapp2.2/ch6-sets.runtimeconfig.dev.json
+/Users/hannahneal/workspace/C-sharp/ch6-sets/bin/Debug/netcoreapp2.2/ch6-sets.dll
+/Users/hannahneal/workspace/C-sharp/ch6-sets/bin/Debug/netcoreapp2.2/ch6-sets.pdb
+/Users/hannahneal/workspace/C-sharp/ch6-sets/obj/Debug/netcoreapp2.2/ch6-sets.csprojAssemblyReference.cache
+/Users/hannahneal/workspace/C-sharp/ch6-sets/obj/Debug/netcoreapp2.2/ch6-sets.csproj.CoreCompileInputs.cache
+/Users/hannahneal/workspace/C-sharp/ch6-sets/obj/Debug/netcoreapp2.2/ch6-sets.AssemblyInfoInputs.cache
+/Users/hannahneal/workspace/C-sharp/ch6-sets/obj/Debug/netcoreapp2.2/ch6-sets.AssemblyInfo.cs
+/Users/hannahneal/workspace/C-sharp/ch6-sets/obj/Debug/netcoreapp2.2/ch6-sets.dll
+/Users/hannahneal/workspace/C-sharp/ch6-sets/obj/Debug/netcoreapp2.2/ch6-sets.pdb
